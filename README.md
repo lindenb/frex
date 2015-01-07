@@ -13,3 +13,4 @@
 ## Pages
 
 * [Workflows](workflows.md)
+* [Workflows comparisons](workflows_compare.md)
