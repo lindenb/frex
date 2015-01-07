@@ -2,8 +2,11 @@
 
 ## Authors A-Z / Afflitations
 
-* (...)
-* Pierre Lindenbaum PhD @yokofakun Institut-du-Thorax. UMR1087. 44000. Nantes. pierre.lindenbaum@univ-nantes.fr
+* Emmanuelle Genin
+* Olivier Quenez
+* Sebastien Letort INSERM
+* Pierre Lindenbaum  Institut-du-Thorax. UMR1087. 44000. Nantes. pierre.lindenbaum@univ-nantes.fr @yokofakun
+* Vincent Meyer CNG
 * (...)
 
 
