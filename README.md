@@ -12,5 +12,12 @@
 
 ## Pages
 
-* [Workflows](workflows.md)
-* [Workflows comparisons](workflows_compare.md)
+* [Workflow Nante](workflow_nantes.md)
+
+
+## Contribute
+
+- Issue Tracker: http://github.com/lindenb/frex/issues`
+- Source Code: http://github.com/lindenb/frex
+
+
