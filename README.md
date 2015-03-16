@@ -12,7 +12,8 @@
 
 ## Pages
 
-* [Workflow Nante](workflow_nantes.md)
+* [Workflow Brest](workflow_Brest.md)
+* [Workflow Nantes](workflow_nantes.md)
 
 
 ## Contribute
