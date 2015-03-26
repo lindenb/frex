@@ -14,7 +14,7 @@
 
 * [Workflow Brest](workflow_Brest.md)
 * [Workflow Nantes](workflow_nantes.md)
-
+* [Compare VCFs from different Workflows](compare_workflows/CmpVcf01.md)
 
 ## Contribute
 
