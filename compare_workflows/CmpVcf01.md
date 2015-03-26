@@ -130,7 +130,7 @@ $ grep -v Sample diff_20150313LefortAdes_20141212LindenbUnifiedGenotyper.tsv | a
 
 ### A Few Variant in each category:
 
-                                           scroll ! -> :-)
+                                           scroll ! ---------> :-)
 
 <table>
 <tr><th>Category</th><th>Sample</th><th>Variant 1</th><th>Genotype 1</th><th>Variant 2</th><th>Genotype 2</th></tr>
