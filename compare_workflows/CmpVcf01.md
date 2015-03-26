@@ -4,7 +4,7 @@
 
 Each VCF was
 
-* filtered with the capture region
+* filtered with the capture BED
 * variant left aligned with https://github.com/lindenb/jvarkit/wiki/VCFFixIndels
 * sorted on `contigs`(chrom/pos)
 
@@ -130,6 +130,7 @@ $ grep -v Sample diff_20150313LefortAdes_20141212LindenbUnifiedGenotyper.tsv | a
 
 ### A Few Variant in each category:
 
+                                           scroll ! -> :-)
 
 <table>
 <tr><th>Category</th><th>Sample</th><th>Variant 1</th><th>Genotype 1</th><th>Variant 2</th><th>Genotype 2</th></tr>
